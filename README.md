@@ -26,3 +26,6 @@ A repo for our one-time-use Minecraft Servers that we spent more time tweaking t
 <p align="center">
      <img src="https://user-images.githubusercontent.com/117313879/232133991-819ffb65-c112-4042-bd8b-11cf1b45fa38.png">
 </p>
+
+# Dudas?
+Consulta al MrMirabayTEC
