@@ -13,15 +13,15 @@ A repo for our one-time-use Minecraft Servers that we spent more time tweaking t
 
     https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.4/forge-1.19.2-43.2.4-installer.jar
 </p>
-<p>
-1.1 Alternativamente, puedes copia las carpetas 'libraries' y 'versions' ubicadas en ...\src\Client-Side\.minecraft\ dentro de este repo
-</p>
+
+1.1 Alternativamente, puedes copia las carpetas 'libraries' y 'versions' ubicadas en `...\src\Client-Side\.minecraft\` dentro de este repo donde tengas la carpeta raíz del juego
+
 <p>
 2. Crea un perfil en tu Minecraft con la versión 'Forge 1.19.2' que instalaste o copiaste.
 </p>
-<p>
-3. Hazle pull a este repositorio y copia las carpetas dentro de ...\src\Client-Side\.minecraft\ directo en C:\Users\PC\AppData\Roaming o donde tengas la carpeta raiz del juego
-</p>
+
+3. Hazle pull a este repositorio y copia las carpetas dentro de `...\src\Client-Side\.minecraft\` directo en `C:\Users\PC\AppData\Roaming` o donde tengas la carpeta raíz del juego
+
 <p>
 4. Por último conectate al servidor con la siguiente IP: 👇
 
