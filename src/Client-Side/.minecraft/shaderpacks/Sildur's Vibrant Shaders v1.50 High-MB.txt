@@ -1,0 +1,6 @@
+#Sun Apr 09 20:54:09 CDT 2023
+minlight=0.012
+Moonlight=0.006
+defskybox=true
+emissive_R=1.0
+Godrays=false

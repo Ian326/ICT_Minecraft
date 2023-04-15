@@ -1,6 +1,139 @@
 
 [types]
 
+	[types.leaves_type]
+
+		[types.leaves_type.blue_skies]
+			crystallized = true
+			crescent_fruit = true
+			bluebright = true
+			starlit = true
+			frostbright = true
+			lunar = true
+			dusk = true
+			maple = true
+			cherry = true
+
+		[types.leaves_type.twilightforest]
+			beanstalk = true
+			thorn = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.leaves_type.nethers_exoticism]
+			jaboticaba = true
+
+		[types.leaves_type.vinery]
+			grapevine = true
+			cherry = true
+
+		[types.leaves_type.goodending]
+			cypress = true
+			dense_birch = true
+			dense_dark_oak = true
+
+		[types.leaves_type.abundant_atmosphere]
+			ash = true
+
+		[types.leaves_type.windswept]
+			holly = true
+			chestnut = true
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.byg]
+			araucaria = true
+			blue_spruce = true
+			blooming_witch_hazel = true
+			brown_birch = true
+			brown_oak = true
+			brown_zelkova = true
+			flowering_orchard = true
+			flowering_palo_verde = true
+			holly_berry = true
+			indigo_jacaranda = true
+			flowering_jacaranda = true
+			flowering_indigo_jacaranda = true
+			joshua = true
+			ripe_joshua = true
+			orange_birch = true
+			orange_oak = true
+			orange_spruce = true
+			orchard = true
+			palo_verde = true
+			pink_cherry = true
+			red_birch = true
+			red_maple = true
+			red_oak = true
+			red_spruce = true
+			ripe_orchard = true
+			silver_maple = true
+			green_apple_skyris = true
+			white_cherry = true
+			yellow_birch = true
+			yellow_spruce = true
+			withering_oak = true
+			flowering_nightshade = true
+			firecracker = true
+			aspen = true
+			baobab = true
+			blue_enchanted = true
+			cika = true
+			cypress = true
+			ebony = true
+			ether = true
+			fir = true
+			green_enchanted = true
+			holly = true
+			lament = true
+			jacaranda = true
+			mahogany = true
+			white_mangrove = true
+			maple = true
+			nightshade = true
+			palm = true
+			pine = true
+			rainbow_eucalyptus = true
+			redwood = true
+			skyris = true
+			willow = true
+			witch_hazel = true
+			zelkova = true
+
+		[types.leaves_type.phantasm]
+			pream = true
+
+		[types.leaves_type.culturaldelights]
+			avocado = true
+			fruiting_avocado = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.biomemakeover]
+			blighted_balsa = true
+			willow = true
+			swamp_cypress = true
+			ancient_oak = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			pink_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
 	[types.cut_block_type]
 
 		[types.cut_block_type.nethers_exoticism]
@@ -419,30 +552,10 @@
 			gingerbread = true
 
 		[types.cut_block_type.quark]
-			blue_nether_bricks = true
-			sandstone_bricks = true
-			red_sandstone_bricks = true
-			soul_sandstone_bricks = true
-			cobblestone_bricks = true
-			mossy_cobblestone_bricks = true
-			blackstone_bricks = true
-			dirt_bricks = true
-			netherrack_bricks = true
-			iron_plate = true
-			rusty_iron_plate = true
-			ancient_planks = true
-			midori_block = true
-			raw_iron_bricks = true
-			raw_gold_bricks = true
-			raw_copper_bricks = true
-			soul_sandstone = true
-			cut_soul_sandstone = true
-			smooth_soul_sandstone = true
 			azalea_planks = true
-			blossom_planks = true
+			duskbound_block = true
 			permafrost = true
 			permafrost_bricks = true
-			duskbound_block = true
 			shingles = true
 			white_shingles = true
 			orange_shingles = true
@@ -460,6 +573,10 @@
 			green_shingles = true
 			red_shingles = true
 			black_shingles = true
+			raw_iron_bricks = true
+			raw_gold_bricks = true
+			raw_copper_bricks = true
+			ancient_planks = true
 			calcite = true
 			polished_calcite = true
 			dripstone_block = true
@@ -477,6 +594,8 @@
 			shale_bricks = true
 			myalite_bricks = true
 			bamboo_planks = true
+			midori_block = true
+			blossom_planks = true
 			limestone = true
 			polished_limestone = true
 			jasper = true
@@ -485,140 +604,21 @@
 			polished_shale = true
 			myalite = true
 			polished_myalite = true
+			blue_nether_bricks = true
+			sandstone_bricks = true
+			red_sandstone_bricks = true
+			soul_sandstone_bricks = true
+			cobblestone_bricks = true
+			mossy_cobblestone_bricks = true
+			blackstone_bricks = true
+			dirt_bricks = true
+			netherrack_bricks = true
+			soul_sandstone = true
+			cut_soul_sandstone = true
+			smooth_soul_sandstone = true
 			thatch = true
-
-	[types.leaves_type]
-
-		[types.leaves_type.blue_skies]
-			crystallized = true
-			crescent_fruit = true
-			bluebright = true
-			starlit = true
-			frostbright = true
-			lunar = true
-			dusk = true
-			maple = true
-			cherry = true
-
-		[types.leaves_type.twilightforest]
-			beanstalk = true
-			thorn = true
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			rainbow_oak = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
-		[types.leaves_type.nethers_exoticism]
-			jaboticaba = true
-
-		[types.leaves_type.vinery]
-			grapevine = true
-			cherry = true
-
-		[types.leaves_type.goodending]
-			cypress = true
-			dense_birch = true
-			dense_dark_oak = true
-
-		[types.leaves_type.abundant_atmosphere]
-			ash = true
-
-		[types.leaves_type.windswept]
-			holly = true
-			chestnut = true
-
-		[types.leaves_type.ecologics]
-			coconut = true
-			walnut = true
-
-		[types.leaves_type.byg]
-			araucaria = true
-			blue_spruce = true
-			blooming_witch_hazel = true
-			brown_birch = true
-			brown_oak = true
-			brown_zelkova = true
-			flowering_orchard = true
-			flowering_palo_verde = true
-			holly_berry = true
-			indigo_jacaranda = true
-			flowering_jacaranda = true
-			flowering_indigo_jacaranda = true
-			joshua = true
-			ripe_joshua = true
-			orange_birch = true
-			orange_oak = true
-			orange_spruce = true
-			orchard = true
-			palo_verde = true
-			pink_cherry = true
-			red_birch = true
-			red_maple = true
-			red_oak = true
-			red_spruce = true
-			ripe_orchard = true
-			silver_maple = true
-			green_apple_skyris = true
-			white_cherry = true
-			yellow_birch = true
-			yellow_spruce = true
-			withering_oak = true
-			flowering_nightshade = true
-			firecracker = true
-			aspen = true
-			baobab = true
-			blue_enchanted = true
-			cika = true
-			cypress = true
-			ebony = true
-			ether = true
-			fir = true
-			green_enchanted = true
-			holly = true
-			lament = true
-			jacaranda = true
-			mahogany = true
-			white_mangrove = true
-			maple = true
-			nightshade = true
-			palm = true
-			pine = true
-			rainbow_eucalyptus = true
-			redwood = true
-			skyris = true
-			willow = true
-			witch_hazel = true
-			zelkova = true
-
-		[types.leaves_type.phantasm]
-			pream = true
-
-		[types.leaves_type.culturaldelights]
-			avocado = true
-			fruiting_avocado = true
-
-		[types.leaves_type.deeperdarker]
-			echo = true
-
-		[types.leaves_type.biomemakeover]
-			blighted_balsa = true
-			willow = true
-			swamp_cypress = true
-			ancient_oak = true
-
-		[types.leaves_type.quark]
-			ancient = true
-			blue_blossom = true
-			lavender_blossom = true
-			orange_blossom = true
-			pink_blossom = true
-			yellow_blossom = true
-			red_blossom = true
+			iron_plate = true
+			rusty_iron_plate = true
 
 	[types.wood_type]
 

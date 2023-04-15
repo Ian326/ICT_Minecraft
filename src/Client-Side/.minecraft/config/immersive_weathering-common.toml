@@ -32,18 +32,18 @@
 [icicle]
 	react_to_vibrations = true
 	#Range: 1 ~ 1001
-	spawn_rarity = 1
+	spawn_rarity = 12
 
 [freezing]
+	enable_water_freezing = false
 	#same as powder snow. If below 2 it will match natural unfreezing so will stay constant
 	#Range: 0 ~ 5
 	water_increment = 3
 	#Range: 0 ~ 1000
 	icicle = 300
+	enable_permafrost_freezing = false
 	#Range: 0 ~ 5
 	permafrost_increment = 2
-	enable_water_freezing = false
-	enable_permafrost_freezing = false
 
 [charring]
 	#Range: 0.0 ~ 1.0
@@ -90,9 +90,9 @@
 	leggings_prevents_thorn_damage = true
 
 [leaf_piles]
-	leaf_piles_slow = false
+	leaf_piles_slow = true
 	#Range: 0.0 ~ 1.0
-	spawn_entity_from_decay = 0.0
+	spawn_entity_from_decay = 0.3
 	#Range: 1 ~ 256
 	reach = 12
 	#Range: 1 ~ 8
