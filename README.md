@@ -31,5 +31,7 @@ A repo for our one-time-use Minecraft Servers that we spent more time tweaking t
      <img src="https://user-images.githubusercontent.com/117313879/232133991-819ffb65-c112-4042-bd8b-11cf1b45fa38.png">
 </p>
 
+- En caso de que no te deje entrar al server, cierra minecraft, borra la carpeta `C:\Users\PC\AppData\Roaming\.minecraft\config` y vuelve a abrir el juego.
+
 # Dudas?
 Consulta al 👉***MrMirabayTEC***👈 😎😎🔥🔥
