@@ -1,215 +1,209 @@
-[14:34:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:34:23] [ServerMain/INFO]: Loaded 7 recipes
-[14:34:23] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[14:34:23] [Server thread/INFO]: Loading properties
-[14:34:23] [Server thread/INFO]: This server is running CraftBukkit version 3729-Spigot-514cf03-818582f (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
-[14:34:24] [Server thread/INFO]: Debug logging is disabled
-[14:34:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:34:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:34:24] [Server thread/INFO]: Default game type: SURVIVAL
-[14:34:24] [Server thread/INFO]: Generating keypair
-[14:34:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:34:24] [Server thread/INFO]: Using default channel type
-[14:34:24] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.2-SNAPSHOT (b??-2702bc3)
-[14:34:25] [Server thread/INFO]: [floodgate] Took 409ms to boot Floodgate
-[14:34:25] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.1.0-SNAPSHOT
-[14:34:25] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[14:34:25] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[14:34:25] [Server thread/INFO]: Preparing level "world"
-[14:34:25] [Server thread/INFO]: -------- World Settings For [world] --------
-[14:34:25] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:34:25] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:34:25] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:34:25] [Server thread/INFO]: Simulation Distance: 12
-[14:34:25] [Server thread/INFO]: View Distance: 16
-[14:34:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:34:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:34:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:34:25] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:34:25] [Server thread/INFO]: Mob Spawn Range: 6
-[14:34:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:34:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[14:34:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[14:34:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:34:25] [Server thread/INFO]: Max TNT Explosions: 100
-[14:34:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:34:25] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[14:34:25] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:34:25] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:34:25] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:34:25] [Server thread/INFO]: Simulation Distance: 12
-[14:34:25] [Server thread/INFO]: View Distance: 16
-[14:34:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:34:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:34:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:34:25] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:34:25] [Server thread/INFO]: Mob Spawn Range: 6
-[14:34:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[14:34:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:34:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[14:34:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[14:34:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:34:25] [Server thread/INFO]: Max TNT Explosions: 100
-[14:34:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:34:27] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[14:34:27] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:34:27] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:34:27] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:34:27] [Server thread/INFO]: Simulation Distance: 12
-[14:34:27] [Server thread/INFO]: View Distance: 16
-[14:34:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:34:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:34:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:34:27] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:34:27] [Server thread/INFO]: Mob Spawn Range: 6
-[14:34:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[14:34:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:34:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[14:34:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[14:34:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:34:27] [Server thread/INFO]: Max TNT Explosions: 100
-[14:34:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:34:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:34:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:34:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:34:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:34:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:34:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:34:29] [Worker-Main-6/INFO]: Preparing spawn area: 37%
-[14:34:30] [Server thread/INFO]: Time elapsed: 2780 ms
-[14:34:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:34:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:34:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:34:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:34:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:34:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:34:32] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:34:33] [Worker-Main-3/INFO]: Preparing spawn area: 88%
-[14:34:33] [Server thread/INFO]: Time elapsed: 3042 ms
-[14:34:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:34:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:34:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:34:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:34:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:34:35] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[14:34:35] [Server thread/INFO]: Time elapsed: 2127 ms
-[14:34:35] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b??-2702bc3)
-[14:34:35] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.1.0-SNAPSHOT
-[14:34:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:34:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:34:35] [Server thread/INFO]: [Geyser-Spigot] 
-[14:34:35] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.1.0-SNAPSHOT (git-master-0f99abc)
-[14:34:35] [Server thread/INFO]: [Geyser-Spigot] 
-[14:34:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:34:38] [Network Listener - #1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
-[14:34:38] [Server thread/INFO]: [Geyser-Spigot] Done (2.968s)! Run /geyser help for help!
-[14:34:38] [Server thread/INFO]: Done (12.875s)! For help, type "help"
-[14:38:12] [Network Listener - #1/INFO]: [Geyser-Spigot] /127.0.0.1:58075 tried to connect!
-[14:38:13] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Ian326
-[14:38:13] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Ian326 (logged in as: Ian326) has connected to the Java server
-[14:38:14] [Geyser Spigot connection thread-4-3/INFO]: UUID of player .Ian326 is 00000000-0000-0000-0009-01f3596c655c
-[14:38:14] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ian326 joined (UUID: 00000000-0000-0000-0009-01f3596c655c)
-[14:38:14] [Server thread/INFO]: .Ian326 joined the game
-[14:38:15] [Server thread/INFO]: .Ian326[/127.0.0.1:0] logged in with entity id 159 at ([world]10.5, 111.0, 2.5)
-[14:38:37] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Ian326 has disconnected from the Java server because of Bedrock client disconnected
-[14:38:37] [Geyser Spigot connection thread-4-3/INFO]: [floodgate] Floodgate player logged in as .Ian326 disconnected
-[14:38:37] [Server thread/INFO]: .Ian326 lost connection: Disconnected
-[14:38:37] [Server thread/INFO]: .Ian326 left the game
-[14:39:35] [Network Listener - #1/INFO]: [Geyser-Spigot] /10.25.73.204:49832 tried to connect!
-[14:39:35] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username Megadeth 608755
-[14:39:35] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Megadeth 608755 (logged in as: Megadeth_608755) has connected to the Java server
-[14:39:36] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .Megadeth_608755 is 00000000-0000-0000-0009-00000d287810
-[14:39:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 joined (UUID: 00000000-0000-0000-0009-00000d287810)
-[14:39:36] [Server thread/INFO]: .Megadeth_608755 joined the game
-[14:39:36] [Server thread/INFO]: .Megadeth_608755[/10.25.73.204:0] logged in with entity id 304 at ([world]-2.5, 110.0, 4.5)
-[14:40:12] [Geyser Spigot connection thread-4-4/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 disconnected
-[14:40:12] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Megadeth 608755 has disconnected from the Java server because of Bedrock client disconnected
-[14:40:12] [Server thread/INFO]: .Megadeth_608755 lost connection: Disconnected
-[14:40:12] [Server thread/INFO]: .Megadeth_608755 left the game
-[14:40:21] [Network Listener - #1/INFO]: [Geyser-Spigot] /10.25.73.204:49832 tried to connect!
-[14:40:22] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username Megadeth 608755
-[14:40:22] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Megadeth 608755 (logged in as: Megadeth_608755) has connected to the Java server
-[14:40:22] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .Megadeth_608755 is 00000000-0000-0000-0009-00000d287810
-[14:40:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 joined (UUID: 00000000-0000-0000-0009-00000d287810)
-[14:40:22] [Server thread/INFO]: .Megadeth_608755 joined the game
-[14:40:22] [Server thread/INFO]: .Megadeth_608755[/10.25.73.204:0] logged in with entity id 742 at ([world]-2.8155198, 110.0, 4.69999)
-[14:41:03] [User Authenticator #1/INFO]: UUID of player Ianaitor326 is 9e245fe7-e2a2-4ab9-8912-9a99003c2ac9
-[14:41:03] [Server thread/INFO]: Ianaitor326 joined the game
-[14:41:03] [Server thread/INFO]: Ianaitor326[/127.0.0.1:61711] logged in with entity id 987 at ([world]5.5, 108.0, 8.5)
-[14:41:56] [Server thread/INFO]: Ianaitor326 issued server command: /tp .Megadeth_608755
-[14:41:56] [Server thread/INFO]: [Ianaitor326: Teleported Ianaitor326 to .Megadeth_608755]
-[14:42:26] [Server thread/INFO]: Ianaitor326 issued server command: /give Ianaitor326 minecraft:netherite_axe
-[14:42:26] [Server thread/INFO]: [Ianaitor326: Gave 1 [Netherite Axe] to Ianaitor326]
-[14:42:29] [Server thread/INFO]: .Megadeth_608755 was slain by Ianaitor326
-[14:42:47] [Geyser Spigot connection thread-4-1/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 disconnected
-[14:42:47] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Megadeth 608755 has disconnected from the Java server because of Bedrock client disconnected
-[14:42:47] [Server thread/INFO]: .Megadeth_608755 lost connection: Disconnected
-[14:42:47] [Server thread/INFO]: .Megadeth_608755 left the game
-[14:42:54] [Network Listener - #1/INFO]: [Geyser-Spigot] /10.25.73.204:49832 tried to connect!
-[14:42:54] [Network Listener - #2/INFO]: [Geyser-Spigot] Player connected with username Megadeth 608755
-[14:42:54] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Megadeth 608755 (logged in as: Megadeth_608755) has connected to the Java server
-[14:42:55] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .Megadeth_608755 is 00000000-0000-0000-0009-00000d287810
-[14:42:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 joined (UUID: 00000000-0000-0000-0009-00000d287810)
-[14:42:55] [Server thread/INFO]: .Megadeth_608755 joined the game
-[14:42:55] [Server thread/INFO]: .Megadeth_608755[/10.25.73.204:0] logged in with entity id 1200 at ([world]-2.1397047, 109.0, 1.1320069)
-[14:44:03] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Megadeth 608755 has disconnected from the Java server because of Bedrock client disconnected
-[14:44:03] [Geyser Spigot connection thread-4-2/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 disconnected
-[14:44:03] [Server thread/INFO]: .Megadeth_608755 lost connection: Disconnected
-[14:44:03] [Server thread/INFO]: .Megadeth_608755 left the game
-[14:44:21] [Server thread/INFO]: Ianaitor326 lost connection: Disconnected
-[14:44:21] [Server thread/INFO]: Ianaitor326 left the game
+[10:04:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:04:34] [ServerMain/INFO]: Loaded 7 recipes
+[10:04:35] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[10:04:35] [Server thread/INFO]: Loading properties
+[10:04:35] [Server thread/INFO]: This server is running CraftBukkit version 3737-Spigot-d1bd3bd-f92a41c (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[10:04:35] [Server thread/INFO]: Debug logging is disabled
+[10:04:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:04:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:04:35] [Server thread/INFO]: Default game type: SURVIVAL
+[10:04:35] [Server thread/INFO]: Generating keypair
+[10:04:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:04:35] [Server thread/INFO]: Using default channel type
+[10:04:36] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.2-SNAPSHOT (b??-2702bc3)
+[10:04:36] [Server thread/INFO]: [floodgate] Took 391ms to boot Floodgate
+[10:04:36] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.1.0-SNAPSHOT
+[10:04:37] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[10:04:37] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[10:04:37] [Server thread/INFO]: Preparing level "world"
+[10:04:37] [Server thread/INFO]: -------- World Settings For [world] --------
+[10:04:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:04:37] [Server thread/INFO]: View Distance: 16
+[10:04:37] [Server thread/INFO]: Simulation Distance: 12
+[10:04:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:04:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:04:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:04:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:04:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:04:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:04:37] [Server thread/INFO]: Mob Spawn Range: 6
+[10:04:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10:04:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10:04:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10:04:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:04:37] [Server thread/INFO]: Max TNT Explosions: 100
+[10:04:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:04:37] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[10:04:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:04:37] [Server thread/INFO]: View Distance: 16
+[10:04:37] [Server thread/INFO]: Simulation Distance: 12
+[10:04:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:04:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:04:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:04:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:04:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:04:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:04:37] [Server thread/INFO]: Mob Spawn Range: 6
+[10:04:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[10:04:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10:04:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10:04:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10:04:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:04:37] [Server thread/INFO]: Max TNT Explosions: 100
+[10:04:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:04:38] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[10:04:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:04:38] [Server thread/INFO]: View Distance: 16
+[10:04:38] [Server thread/INFO]: Simulation Distance: 12
+[10:04:38] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:04:38] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:04:38] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:04:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:04:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:04:38] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:04:38] [Server thread/INFO]: Mob Spawn Range: 6
+[10:04:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[10:04:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10:04:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10:04:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10:04:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:04:38] [Server thread/INFO]: Max TNT Explosions: 100
+[10:04:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:04:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:04:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:04:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:04:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:04:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:04:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:04:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:04:41] [Worker-Main-3/INFO]: Preparing spawn area: 49%
+[10:04:41] [Server thread/INFO]: Time elapsed: 3185 ms
+[10:04:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:04:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:04:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:04:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:04:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:04:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:04:44] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[10:04:44] [Server thread/INFO]: Time elapsed: 2522 ms
+[10:04:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:04:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:04:45] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:04:46] [Worker-Main-5/INFO]: Preparing spawn area: 10%
+[10:04:46] [Server thread/INFO]: Time elapsed: 2292 ms
+[10:04:46] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b??-2702bc3)
+[10:04:46] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.1.0-SNAPSHOT
+[10:04:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:04:46] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:04:46] [Server thread/INFO]: [Geyser-Spigot] 
+[10:04:46] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.1.0-SNAPSHOT (git-master-0f99abc)
+[10:04:46] [Server thread/INFO]: [Geyser-Spigot] 
+[10:04:46] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:04:49] [Network Listener - #1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[10:04:49] [Server thread/INFO]: [Geyser-Spigot] Done (2.917s)! Run /geyser help for help!
+[10:04:49] [Server thread/INFO]: Done (12.653s)! For help, type "help"
+[10:11:52] [Network Listener - #1/INFO]: [Geyser-Spigot] /127.53.91.238:49120 tried to connect!
+[10:11:53] [Network Listener - #1/INFO]: [Geyser-Spigot] /127.53.91.238:49120 tried to connect!
+[10:11:56] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Ian326
+[10:11:56] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Ian326 (logged in as: Ian326) has connected to the Java server
+[10:11:58] [Geyser Spigot connection thread-4-3/INFO]: UUID of player .Ian326 is 00000000-0000-0000-0009-01f3596c655c
+[10:11:58] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ian326 joined (UUID: 00000000-0000-0000-0009-01f3596c655c)
+[10:11:58] [Server thread/INFO]: .Ian326 joined the game
+[10:11:58] [Server thread/INFO]: .Ian326[/127.53.91.238:0] logged in with entity id 255 at ([world]10.5, 111.0, 2.5)
+[10:12:30] [Network Listener - #1/INFO]: [Geyser-Spigot] /127.53.91.238:42437 tried to connect!
+[10:12:30] [Network Listener - #1/INFO]: [Geyser-Spigot] /127.53.91.238:42437 tried to connect!
+[10:12:32] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username Megadeth 608755
+[10:12:32] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Megadeth 608755 (logged in as: Megadeth_608755) has connected to the Java server
+[10:12:33] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .Megadeth_608755 is 00000000-0000-0000-0009-00000d287810
+[10:12:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 joined (UUID: 00000000-0000-0000-0009-00000d287810)
+[10:12:33] [Server thread/INFO]: .Megadeth_608755 joined the game
+[10:12:33] [Server thread/INFO]: .Megadeth_608755[/127.53.91.238:0] logged in with entity id 540 at ([world]3.5, 114.02159999847412, 7.5)
+[10:14:14] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Megadeth 608755 has disconnected from the Java server because of Bedrock client disconnected
+[10:14:14] [Geyser Spigot connection thread-4-4/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 disconnected
+[10:14:14] [Server thread/INFO]: .Megadeth_608755 lost connection: Disconnected
+[10:14:14] [Server thread/INFO]: .Megadeth_608755 left the game
+[10:14:22] [Network Listener - #1/INFO]: [Geyser-Spigot] /127.53.91.238:42437 tried to connect!
+[10:14:24] [Server thread/INFO]: .Ian326 was blown up by Creeper
+[10:14:25] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username Megadeth 608755
+[10:14:25] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Megadeth 608755 (logged in as: Megadeth_608755) has connected to the Java server
+[10:14:25] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .Megadeth_608755 is 00000000-0000-0000-0009-00000d287810
+[10:14:25] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Ian326 has disconnected from the Java server because of Bedrock client disconnected
+[10:14:25] [Geyser Spigot connection thread-4-3/INFO]: [floodgate] Floodgate player logged in as .Ian326 disconnected
+[10:14:25] [Server thread/INFO]: .Ian326 lost connection: Disconnected
+[10:14:25] [Server thread/INFO]: .Ian326 left the game
+[10:14:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 joined (UUID: 00000000-0000-0000-0009-00000d287810)
+[10:14:25] [Server thread/INFO]: .Megadeth_608755 joined the game
+[10:14:25] [Server thread/INFO]: .Megadeth_608755[/127.53.91.238:0] logged in with entity id 713 at ([world]3.5, 110.20896797016444, 7.5)
+[10:14:35] [Network Listener - #1/INFO]: [Geyser-Spigot] /127.53.91.238:49120 tried to connect!
+[10:14:36] [Network Listener - #1/INFO]: [Geyser-Spigot] /127.53.91.238:49120 tried to connect!
+[10:14:38] [Network Listener - #2/INFO]: [Geyser-Spigot] Player connected with username Ian326
+[10:14:38] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Ian326 (logged in as: Ian326) has connected to the Java server
+[10:14:39] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .Ian326 is 00000000-0000-0000-0009-01f3596c655c
+[10:14:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ian326 joined (UUID: 00000000-0000-0000-0009-01f3596c655c)
+[10:14:39] [Server thread/INFO]: .Ian326 joined the game
+[10:14:39] [Server thread/INFO]: .Ian326[/127.53.91.238:0] logged in with entity id 932 at ([world]3.7774749, 108.0, 8.607109)
+[10:14:54] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Megadeth 608755 has disconnected from the Java server because of Bedrock client disconnected
+[10:14:54] [Geyser Spigot connection thread-4-1/INFO]: [floodgate] Floodgate player logged in as .Megadeth_608755 disconnected
+[10:14:54] [Server thread/INFO]: .Megadeth_608755 lost connection: Disconnected
+[10:14:54] [Server thread/INFO]: .Megadeth_608755 left the game
+[10:14:59] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Ian326 has disconnected from the Java server because of Bedrock client disconnected
+[10:14:59] [Geyser Spigot connection thread-4-2/INFO]: [floodgate] Floodgate player logged in as .Ian326 disconnected
+[10:14:59] [Server thread/INFO]: .Ian326 lost connection: Disconnected
+[10:14:59] [Server thread/INFO]: .Ian326 left the game
